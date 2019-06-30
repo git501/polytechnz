@@ -1,1 +1,1 @@
-# polytechnz
+this is a simple progam
