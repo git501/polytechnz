@@ -2,7 +2,7 @@
 public class helloworldexample {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Output Hello World to the user
 		System.out.println("hello world");
 
 	}
